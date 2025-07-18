@@ -1,0 +1,31 @@
+ NOMBRE : beijing_v14e20.dat
+ COMENTARIO : 0
+ VERTICES : 14
+ ARISTAS_REQ : 20
+ ARISTAS_NOREQ : 0
+ VEHICULOS : 10
+ CAPACIDAD : 30
+ TIPO_COSTES_ARISTAS : EXPLICITOS 
+ COSTE_TOTAL_REQ : 164
+LISTA_ARISTAS_REQ :
+ ( 1, 2)   coste 9   demanda 6
+ ( 2, 3)   coste 7   demanda 8
+ ( 3, 4)   coste 7   demanda 5
+ ( 1, 5)   coste 10   demanda 5
+ ( 2, 6)   coste 10   demanda 8
+ ( 3, 7)   coste 10   demanda 5
+ ( 4, 8)   coste 10   demanda 1
+ ( 5, 6)   coste 9   demanda 3
+ ( 6, 7)   coste 7   demanda 4
+ ( 7, 8)   coste 7   demanda 10
+ ( 5, 9)   coste 9   demanda 7
+ ( 6, 10)   coste 9   demanda 10
+ ( 7, 11)   coste 9   demanda 10
+ ( 8, 12)   coste 9   demanda 4
+ ( 9, 10)   coste 9   demanda 10
+ ( 10, 11)   coste 7   demanda 10
+ ( 11, 12)   coste 6   demanda 8
+ ( 11, 13)   coste 7   demanda 7
+ ( 12, 14)   coste 7   demanda 8
+ ( 13, 14)   coste 6   demanda 3
+ DEPOSITO :	7
